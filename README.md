@@ -1,1 +1,1 @@
-🏫 Undergraduate at FPT University | 🍵 Java Back-end Developer
+- 🏫 Undergraduate at FPT University | 🍵 Java Back-end Developer
